@@ -2,13 +2,13 @@
 
 ### 1. 개인 정보ℹ️
 ***
-이름 | 이메일
---- | --- |
-김이진 | namesclaire@gmail.com
+이름 | 생년월일 | 이메일
+--- | --- | --- |
+김이진 | 1998.09.25 | namesclaire@gmail.com
 
 ### 2. 학력 사항🎓
 ***
-* **ChungNam National University, Daejeon, Korea**, 2017-2022, Business Administration, Bachelor's Degree
+* **충남대학교, 대한민국**, 2017-2022, 경영학부, 학사
 * **Université de Lille, Lille, France**, 2021.09-2021.12, International Finance, L3
 
 ### 3. Programming Skill 및 컴퓨터 지식💻
